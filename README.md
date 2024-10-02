@@ -50,4 +50,4 @@ Several trials were conducted and the number of newrons were chosen to ensure th
   - Increased epochs
 
 ## Summary
-  - Random forrest algorithm is recommended for this classification as it is a better option for non-linear relationships. It can also idnetify outliers and it  performs better on large datasets.
+  - Random forrest algorithm is recommended for this classification as it is a better option for non-linear relationships. It can also identify outliers and it performs better on larger datasets.
