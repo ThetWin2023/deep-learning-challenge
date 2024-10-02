@@ -28,7 +28,7 @@
 - SPECIAL_CONSIDERATIONS
 - ASK_AMT
 
-### Variables removed:
+#### Variables removed:
 - EIN
 - NAME
 
